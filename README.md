@@ -1,16 +1,16 @@
 ## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Nanum+Gothic+Coding&size=28&pause=1000&color=00EDF7&width=435&lines=The+Development+Space+of+the+%22River%22;Don't+be+surprised.+I'm+studying.)](https://git.io/typing-svg)
 
-<!--
-**hankang67/hankang67** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### [ STACK ]
 
-Here are some ideas to get you started:
+Development & Communication
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![IntelliJ](https://img.shields.io/badge/IntelliJ_IDEA-222326.svg?style=for-the-badge&logo=intellij-idea&logoColor=white) 
+![Gradle](https://img.shields.io/badge/Gradle-02303a?style=for-the-badge&logo=gradle&logoColor=white) 
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white) 
+![gitignore](https://img.shields.io/badge/gitignore.io-204ECF?style=for-the-badge&logo=gitignore.io&logoColor=white)
+
+Frameworks & Languages
+
+![SpringBoot](https://img.shields.io/badge/SpringBoot-6db33f?style=for-the-badge&logo=springboot&logoColor=white) 
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+
