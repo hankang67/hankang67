@@ -2,7 +2,7 @@
 
 <h2>Introduction</h2>
 
-## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Nanum+Gothic+Coding&size=28&pause=1000&color=00EDF7&width=435&lines=The+Development+Space+of+the+%22River%22;Don't+be+surprised.+I'm+studying.)](https://git.io/typing-svg)
+## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Nanum+Gothic+Coding&size=28&pause=1000&color=000000&width=435&lines=The+Development+Space+of+the+%22River%22;Don't+be+surprised.+I'm+studying.)](https://git.io/typing-svg)
 
 ### [ STACK ]
 ![IntelliJ](https://img.shields.io/badge/IntelliJ_IDEA-222326.svg?style=for-the-badge&logo=intellij-idea&logoColor=white) 
