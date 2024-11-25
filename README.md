@@ -1,3 +1,6 @@
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)
+
+
 ## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Nanum+Gothic+Coding&size=28&pause=1000&color=00EDF7&width=435&lines=The+Development+Space+of+the+%22River%22;Don't+be+surprised.+I'm+studying.)](https://git.io/typing-svg)
 
 ### [ STACK ]
