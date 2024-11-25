@@ -1,4 +1,4 @@
-## [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
+## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Nanum+Gothic+Coding&size=28&pause=1000&color=00EDF7&width=435&lines=The+Development+Space+of+the+%22River%22;Don't+be+surprised.+I'm+studying.)](https://git.io/typing-svg)
 
 <!--
 **hankang67/hankang67** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
