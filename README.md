@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Kang🌊%20render&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Kang's%20development&fontSize=90)
 
 ## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Nanum+Gothic+Coding&size=28&pause=1000&color=00EDF7&width=435&lines=The+Development+Space+of+the+%22River%22;Don't+be+surprised.+I'm+studying.)](https://git.io/typing-svg)
 
